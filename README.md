@@ -11,7 +11,7 @@
 
 <p align="center">
 	<a href="https://github.com/Deaadman/ItemRarities/issues"><img src="https://img.shields.io/github/issues/Deaadman/ItemRarities?style=for-the-badge"></a>
-	<img src="https://img.shields.io/badge/Translated-15.79%25-red?style=for-the-badge">
+	<img src="https://img.shields.io/badge/Translated-21.05%25-red?style=for-the-badge">
 
 ---
 
@@ -23,6 +23,25 @@ Item Rarities is a modification that enhances the existing UI by adding visual e
 -  **Rarity Classification:** Each item now has a distinct visual indicator which represents its rarity.
 -  **Enhanced Immersion**: Rarer items now feel like are they worth something once found.
 -  **Accessibility Options**: Supports multiple languages, and colorblindness.
+
+---
+
+## COMPATIBILITY:
+
+### Required Dependencies:
+For optimal functionality of this modification, ensure you have the following versions or newer for the latest version of **Universal Tweaks**:
+
+- [**The Long Dark**](https://store.steampowered.com/news/app/305620) - Version: **v2.26**  
+- [**MelonLoader**](https://github.com/LavaGang/MelonLoader/releases) - Version: **v0.6.1**   
+- [**Localization Utilities**](https://github.com/dommrogers/LocalizationUtilities/releases) - Version: **v2.0.0** 
+- [**Mod Settings**](https://github.com/DigitalzombieTLD/ModSettings) - Version: **v2.0.0** 
+
+> [!WARNING]
+> Avoid using MelonLoader v0.6.2 as ModSettings isn't compatible yet!
+
+### Incompatible Mods:
+
+Currently no mods are incompatible, but when there are some, avoid using the following mods with this modification as combining this mod with incompatible ones might result in game crashes, data loss, or unforeseen issues. 
 
 ---
 
@@ -50,20 +69,10 @@ Item Rarities is a modification that enhances the existing UI by adding visual e
 ### Translations:
 - [**Elderly-Emre**](https://github.com/Elderly-Emre) - Turkish Translations.
 - [**LettereUniche**](https://github.com/LettereUniche) - Italian Translations.
+- [**deepsnowland**](https://github.com/deepsnowland) - Japanese Translations.
 
 ### Programming:
 - [**The Illusion**](https://github.com/Arkhorse) - Pull Request [**#4**](https://github.com/Deaadman/ItemRarities/pull/4) - In Update [**v1.1.2**](https://github.com/Deaadman/ItemRarities/blob/release/Information/PatchNotes.md#v112).
 
----
-
-## LICENSING:
-This modification is licensed under the **MIT License.**
-
-Under the MIT License you have the right to:
-
-- Use this mod for any purpose, whether it's personal or commercial.
-- Modify the mod to suit your needs, and those modifications can be kept private or shared with others.
-- Distribute this mod in its original or modified form, either for free or as part of a paid product, without imposing any additional restrictions.
-- The only requirement is that the original copyright and license information must be included when you distribute the mod.
-
->**Disclaimer:** This modification is not officially a part of The Long Dark and is not affiliated with Hinterland Studio Inc or its affiliates.
+> [!WARNING]
+> This modification is not officially a part of The Long Dark and is not affiliated with Hinterland Studio Inc or its affiliates.
